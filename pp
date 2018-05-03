@@ -1,4 +1,1 @@
-gi
-s
-mm
-kk
+edit
